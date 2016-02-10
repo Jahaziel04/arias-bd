@@ -3,8 +3,7 @@ if(isset($_POST['email'])) {
  
     // Edita las dos líneas siguientes con tu dirección de correo y asunto personalizados
  
-    $email_to = "
- nombre@tucorreo.com";
+    $email_to = "jahaziel@ariasbd.16mb.com";
  
     $email_subject = "Tu Asunto de correo";   
  
