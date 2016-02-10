@@ -31,6 +31,25 @@ $headers = 'From: '.$email_from."\r\n".
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to, $email_subject, $email_message, $headers);
 
-echo "¡El formulario se ha enviado con éxito!";
+echo "<html> 
+<head> 
+<title>Login</title> 
+<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
+<link href='../estilo.css' rel='stylesheet' type='text/css'> 
+</head> 
+
+<body bgcolor='#FFFFFF'> 
+<br> 
+<br> 
+<table width='50%' border='0' align='center' cellpadding='0' cellspacing='0'> 
+  <tr>  
+    <td><div align='center'>Usuario o Password incorrectos<br><br> 
+        <input name='Button' type='button' class='t_n' class='cajas' onClick='javascript:window.history.back()' value='Volver'> 
+      </div></td> 
+  </tr> 
+</table> 
+<p align='center' class='text'>&nbsp;</p> 
+</body> 
+</html>";
 }
 ?>
