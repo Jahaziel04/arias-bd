@@ -1,1 +1,120 @@
-<!DOCTYPE html><html lang="es"><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Contacto</title><meta name="description" content="Escribenos para cualquir cotizacion sin costo. numero 9222644589"/><link rel="stylesheet" href="./css/main.css"/></html><body><header id="header"><nav class="navbar"><a href="/" class="brand"><figure><img src="img/Logo-verde.png" alt="" height="70px"/></figure><h1 class="title-brand">Arias<span class="title-brand--bd icon-home">Banquetes & Decoración</span></h1></a><div href="" class="toggle"><i class="fa fa-bars"></i></div><div class="right"><a href="/#servicios" class="link">Servicios</a></div><div class="right"><a href="/#portafolio" class="link">Portafolio</a></div><div class="right"><a href="paquetes.html" class="link">Paquetes</a></div><div class="right"><a href="faq.html" title="Preguntas frecuentes" class="link">PF ¿?</a></div><div class="right"><a href="acercade.html" title="Acerca de nosotros" class="link">Acerca de</a></div><div class="right"><a href="contacto.html" class="link">Contacto</a></div><!--div(class="contacto experimento")--><!--	div(class="link") Contacto--><!--		div(class="vuela")--><!--			span(class="icon-mobile contact")--><!--				a(href="tel:+9222561694") 9222561694--><!--			span(class="icon-phone contact")--><!--				a(href="tel:+9222644586") 9222644586--><!--			span(class="icon-facebook-menu contact")--><!--				a(class="whithout-line" target="_blank" href="https://www.facebook.com/profile.php?id=100009676535122") facebook--></nav></header><section class="container"><section class="pru"><article class="row center"><div class="col-12"><form action="send_form.php" method="post" name="contacto"><table width="450px"><tr><td valign="top"><label for="first_name">Nombre *</label></td><td valign="top"><input type="text" name="first_name" maxlength="50" size="30"/></td></tr><tr><td valign="top"><label for="last_name">Apellidos *</label></td><td valign="top"><input type="text" name="last_name" maxlength="50" size="30"/></td></tr><tr><td valign="top"><label for="email">E-mail *</label></td><td valign="top"><input type="text" name="email" maxlength="80" size="30"/></td></tr><tr><td valign="top"><label for="telephone">Telefono</label></td><td valign="top"><input type="text" name="telephone" maxlength="30" size="30"/></td></tr><tr><td valign="top"><label for="message">Mensaje *</label></td><td valign="top"><textarea name="message" maxlength="1000" cols="25" rows="6"></textarea></td></tr><tr><td colspan="2"><input type="submit" value="Submit"/><a href="http://ariasbd.16mb.com/@ariasbd.16mb.com">Enviar</a></td></tr></table></form></div></article></section></section></body>
+<!DOCTYPE html>
+<html lang="es">
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Contacto</title>
+  <meta name="description" content="Escribenos para cualquir cotizacion sin costo. numero 9222644589"/>
+  <link rel="stylesheet" href="./css/main.css"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"/>
+</html>
+<body>
+  <header id="header">
+    <nav class="navbar"><a href="/" class="brand">
+        <figure><img src="img/Logo-verde.png" alt="" height="70px"/></figure>
+        <h1 class="title-brand">Arias<span class="title-brand--bd icon-home">Banquetes & Decoración</span></h1></a>
+      <div href="" class="toggle"><i class="fa fa-bars"></i></div>
+      <div class="right"><a href="/#servicios" class="link">Servicios</a></div>
+      <div class="right"><a href="/#portafolio" class="link">Portafolio</a></div>
+      <div class="right"><a href="paquetes.html" class="link">Paquetes</a></div>
+      <div class="right"><a href="faq.html" title="Preguntas frecuentes" class="link">PF ¿?</a></div>
+      <div class="right"><a href="acercade.html" title="Acerca de nosotros" class="link">Acerca de</a></div>
+      <div class="right"><a href="contacto.html" class="link">Contacto</a></div>
+      <!--div(class="contacto experimento")-->
+      <!--	div(class="link") Contacto-->
+      <!--		div(class="vuela")-->
+      <!--			span(class="icon-mobile contact")-->
+      <!--				a(href="tel:+9222561694") 9222561694-->
+      <!--			span(class="icon-phone contact")-->
+      <!--				a(href="tel:+9222644586") 9222644586-->
+      <!--			span(class="icon-facebook-menu contact")-->
+      <!--				a(class="whithout-line" target="_blank" href="https://www.facebook.com/profile.php?id=100009676535122") facebook-->
+    </nav>
+  </header>
+  <section class="container">
+    <section class="pru">
+      <article class="row center">
+        <div class="col-12">
+          <form name="frmContacto" method="post" action="sendbymail.php">
+            <table width="500px">
+              <tr>
+                <td>
+                  <label for="first_name">Nombre: *</label>
+                </td>
+                <td>
+                  <input type="text" name="first_name" maxlength="50" size="25"/>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="last_name">Apellido: *</label>
+                </td>
+                <td valign="top">
+                  <input type="text" name="last_name" maxlength="50" size="25"/>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="email">Direccion de E-mail: *</label>
+                </td>
+                <td>
+                  <input type="text" name="email" maxlength="80" size="35"/>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="telephone">Numero de teléfono: *</label>
+                </td>
+                <td>
+                  <input type="text" name="telephone" maxlength="25" size="15"/>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="comments">Mensaje: *</label>
+                </td>
+                <td>
+                  <textarea name="comments" maxlength="500" cols="30" rows="5"></textarea>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="" style="text-align:right">
+                  <input type="submit" value="Enviar"/>
+                </td>
+              </tr>
+            </table>
+          </form>
+        </div>
+      </article>
+    </section>
+  </section>
+  <!--article(class="container")-->
+  <article class="footer">
+    <div class="footer-content"><a href="/">
+        <H3 class="footer-title">Arias</H3><span>Banquetes & Decoración</span></a>
+      <ul class="footer-list">
+        <li class="footer-list-item"><a href="/acercade.html">Acerca de</a></li>
+        <li class="footer-list-item"><a href="#portafolio">Portafolio</a></li>
+        <li class="footer-list-item"><a href="/contacto">Contacto</a></li>
+      </ul>
+    </div>
+    <div class="footer-content">
+      <h3 class="footer-title">Servicios</h3>
+      <ul class="footer-list">
+        <li class="footer-list-item"><a href="mobiliario.html">Mobiliario</a></li>
+        <li class="footer-list-item"><a href="meseros.html">Meseros</a></li>
+        <li class="footer-list-item"><a href="manteleria.html">Mantelería</a></li>
+        <li class="footer-list-item"><a href="cristaleria.html">Cristalería</a></li>
+        <li class="footer-list-item"><a href="decoracion.html">Decoración</a></li>
+        <li class="footer-list-item"><a href="banquetes.html">Banquetes</a></li>
+      </ul><a href="" id="xxx" class="button-circle icon-triangle-up"></a>
+    </div>
+  </article>
+  <div class="derechos">© 2016 Arias Banquetes & Decoración. Todos los derechos reservados.
+    <div class="jahaziel">Desarrollado por<a target="_blank" href="https://www.facebook.com/Jahaziel.Ortiz.Barrios"><span class="negrita">Jahaziel Ortiz Barrios</span><span class="face-jahaziel icon-facebook"></span></a></div>
+  </div>
+  <script src="./js/bundle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script class="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  <script src="./js/owl.carousel.min.js"></script>
+  <script src="./js/mains.js"></script>
+</body>
