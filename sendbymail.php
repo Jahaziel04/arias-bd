@@ -31,19 +31,6 @@ $headers = 'From: '.$email_from."\r\n".
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to, $email_subject, $email_message, $headers);
 
-echo 
-"<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Banquetes y Decoración::Jáltipan, Veracruz | Arias</title>
-</head>
-<body>
-	<p>Mensaje entregado</p>
-</body>
-</html> 
-
-";
+echo "¡El formulario se ha enviado con éxito!";
 }
 ?>
