@@ -1,5 +1,46 @@
 $(document).ready(function() {
 
+$(".owl-carousel").owlCarousel({
+ 
+
+    items : 1,
+
+ 
+    //Basic Speeds
+    slideSpeed : 700,
+    paginationSpeed : 2000,
+    rewindSpeed : 1000,
+ 
+    //Autoplay
+    autoPlay : true,
+    stopOnHover : true,
+ 
+ 
+    //Pagination
+    pagination : true,
+    paginationNumbers: true,
+ 
+    // Responsive 
+    responsive: true,
+    responsiveRefreshRate : 200,
+    responsiveBaseWidth: window,
+ 
+    // CSS Styles
+    baseClass : "owl-carousel",
+    theme : "owl-theme",
+ 
+    //Lazy load
+    lazyLoad : false,
+    lazyFollow : true,
+    lazyEffect : "fade",
+ 
+    //Auto height
+    autoHeight : false,
+ 
+    //JSON 
+    jsonPath : "./js/json/headers.json", 
+    jsonSuccess : false,
+  });
 
 $(".owl-jardineras").owlCarousel({
  
@@ -423,9 +464,8 @@ $(".owl-centrales").owlCarousel({
 
 $(".owl-dulces").owlCarousel({
  
-
-    items : 1,
-
+http://ariasbd.16mb.com/blog/wp-content/uploads/2016/02/encortinado01.jpg
+http://ariasbd.16mb.com/blog/wp-content/uploads/2016/02/encortinado01.jpg
  
     //Basic Speeds
     slideSpeed : 700,
