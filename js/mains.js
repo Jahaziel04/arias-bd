@@ -464,9 +464,6 @@ $(".owl-centrales").owlCarousel({
 
 $(".owl-dulces").owlCarousel({
  
-http://ariasbd.16mb.com/blog/wp-content/uploads/2016/02/encortinado01.jpg
-http://ariasbd.16mb.com/blog/wp-content/uploads/2016/02/encortinado01.jpg
- 
     //Basic Speeds
     slideSpeed : 700,
     paginationSpeed : 2000,

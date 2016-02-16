@@ -1,7 +1,6 @@
 {
   "owl" : [
-      {"item" : "<figure class='item'><img src='../img/banquete1.jpg' class='size-image'></figure>"},
-      {"item" : "<figure class='item'><img src='../img/banquete1.jpg' class='size-image'></figure>"},
-      {"item" : "<figure class='item'><img src='../img/banquete1.jpg' class='size-image'></figure>"}
+      {"item" : "<figure class='item'><img src='../img/banner_mobiliario.jpg' class='size-image'></figure>"},
+      {"item" : "<figure class='item'><img src='../img/manteleria.jpg' class='size-image'></figure>"}
   ]
 }
