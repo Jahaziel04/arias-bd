@@ -4,7 +4,7 @@ $(".owl-carousel").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -46,7 +46,7 @@ $(".owl-jardineras").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -88,7 +88,7 @@ $(".owl-entrada").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -130,7 +130,7 @@ $(".owl-honor").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -172,7 +172,7 @@ $(".owl-techo").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -214,7 +214,7 @@ $(".owl-encortinado").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -256,7 +256,7 @@ $(".owl-iglesias").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -298,7 +298,7 @@ $(".owl-set").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -340,7 +340,7 @@ $(".owl-barra").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -382,7 +382,7 @@ $(".owl-centros").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -424,7 +424,7 @@ $(".owl-centrales").owlCarousel({
  
 
     items : 1,
-
+    singleItem: true,
  
     //Basic Speeds
     slideSpeed : 700,
@@ -464,6 +464,9 @@ $(".owl-centrales").owlCarousel({
 
 $(".owl-dulces").owlCarousel({
  
+    items : 1,
+    singleItem: true,
+
     //Basic Speeds
     slideSpeed : 700,
     paginationSpeed : 2000,
