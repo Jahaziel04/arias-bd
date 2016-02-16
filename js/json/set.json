@@ -1,7 +1,9 @@
 {
   "owl" : [
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"}
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set01.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set02.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set03.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set04.jpg' class='your-image-class intense size-image'></div>"}
+
   ]
 }

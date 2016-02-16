@@ -1,0 +1,6 @@
+{
+  "owl" : [
+      {"item" : "<div class='item'><img src='../img/decoracion/dulces/dulce01.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/dulces/dulce02.jpg' class='your-image-class intense size-image'></div>"}
+  ]
+}

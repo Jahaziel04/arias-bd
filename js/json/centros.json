@@ -1,7 +1,23 @@
 {
   "owl" : [
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"}
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro01.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro02.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro03.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro04.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro05.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro06.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro07.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro08.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro09.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro10.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro11.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro12.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro13.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro14.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro15.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro16.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro17.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centros/centro18.jpg' class='your-image-class intense size-image'></div>"}
+
   ]
 }

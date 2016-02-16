@@ -1,7 +1,5 @@
 {
   "owl" : [
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/banquete1.jpg' class='size-image'></div>"}
+      {"item" : "<figure class='item'><img src='../img/decoracion/entradas/entrada01.jpg' class='your-image-class intense size-image'></figure>"}
   ]
 }
