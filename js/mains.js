@@ -30,9 +30,10 @@ $(".owl-carousel").owlCarousel({
     theme : "owl-theme",
  
     //Lazy load
-    lazyLoad : false,
+    lazyLoad : true,
     lazyFollow : true,
     lazyEffect : "fade",
+    navigation : true,
  
     //Auto height
     autoHeight : false,
@@ -40,6 +41,7 @@ $(".owl-carousel").owlCarousel({
     //JSON 
     jsonPath : "./js/json/headers.json", 
     jsonSuccess : false,
+
   });
 
 $(".owl-jardineras").owlCarousel({
