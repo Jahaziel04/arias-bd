@@ -1,5 +1,5 @@
 {
   "owl" : [
-      {"item" : "<figure class='item'><img data-src='../img/Banners/header-mobile.png' srcset='../img/Banners/header-tablet.png 1000w, ../img/Banners/header-desktop.png 1680w' class='size-image lazyOwl'></figure>"}
+      {"item" : "<figure class='item'><img src='../img/Banners/header.png' srcset='../img/Banners/header.png 250w, ../img/Banners/header-smartphone.png 670w, ../img/Banners/header-tablet.png 1100w, ../img/Banners/header-desktop.png 1920w' class='size-image lazyOwl'></figure>"}
   ]
 }
