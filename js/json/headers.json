@@ -1,5 +1,5 @@
 {
   "owl" : [
-      {"item" : "<figure class='item'><img src='../img/Banners/header.png' srcset='../img/Banners/header.png 250w, ../img/Banners/header-smartphone.png 670w, ../img/Banners/header-tablet.png 1100w, ../img/Banners/header-desktop.png 1920w' class='size-image lazyOwl'></figure>"}
+      {"item" : "<figure class='item'><img src='../img/Banners/header.jpg' srcset='../img/Banners/header.jpg 250w, ../img/Banners/header-smartphone.jpg 670w, ../img/Banners/header-tablet.jpg 1100w, ../img/Banners/header-desktop.jpg 1920w' class='size-image lazyOwl'></figure>"}
   ]
 }
