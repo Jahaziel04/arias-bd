@@ -3,7 +3,11 @@
       {"item" : "<div class='item'><img src='../img/decoracion/sets/set01.jpg' class='your-image-class intense size-image'></div>"},
       {"item" : "<div class='item'><img src='../img/decoracion/sets/set02.jpg' class='your-image-class intense size-image'></div>"},
       {"item" : "<div class='item'><img src='../img/decoracion/sets/set03.jpg' class='your-image-class intense size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/decoracion/sets/set04.jpg' class='your-image-class intense size-image'></div>"}
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set04.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set05.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set06.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set07.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/sets/set08.jpg' class='your-image-class intense size-image'></div>"}
 
   ]
 }

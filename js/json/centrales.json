@@ -3,6 +3,9 @@
       {"item" : "<div class='item'><img src='../img/decoracion/centrales/central01.jpg' class='your-image-class intense size-image'></div>"},
       {"item" : "<div class='item'><img src='../img/decoracion/centrales/central02.jpg' class='your-image-class intense size-image'></div>"},
       {"item" : "<div class='item'><img src='../img/decoracion/centrales/central03.jpg' class='your-image-class intense size-image'></div>"},
-      {"item" : "<div class='item'><img src='../img/decoracion/centrales/central04.jpg' class='your-image-class intense size-image'></div>"}
+      {"item" : "<div class='item'><img src='../img/decoracion/centrales/central04.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centrales/central05.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centrales/central06.jpg' class='your-image-class intense size-image'></div>"},
+      {"item" : "<div class='item'><img src='../img/decoracion/centrales/central07.jpg' class='your-image-class intense size-image'></div>"}
   ]
 }
