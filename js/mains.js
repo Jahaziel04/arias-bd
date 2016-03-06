@@ -17,13 +17,18 @@ $(".owl-carousel").owlCarousel({
     rewindSpeed : 1000,
  
     //Autoplay
-    autoPlay : true,
+    autoPlay : 10000,
     stopOnHover : true,
  
+  // Navigation
+    navigation : false,
+    navigationText : ["Anterior","Siguiente"],
+    rewindNav : true,
+    scrollPerPage : false,
  
     //Pagination
     pagination : true,
-    paginationNumbers: true,
+    paginationNumbers: false,
  
     // Responsive 
     responsive: true,
