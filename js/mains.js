@@ -43,11 +43,6 @@ $(".owl-carousel").owlCarousel({
  
     //Auto height
     autoHeight : false,
- 
-    //JSON 
-    jsonPath : "./js/json/headers.json", 
-    jsonSuccess : false,
-
   });
 
 $(".owl-jardineras").owlCarousel({
